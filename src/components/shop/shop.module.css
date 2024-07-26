@@ -1,0 +1,10 @@
+.container {
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+  border-radius: 8px;
+  padding: 20px;
+  background-color: rgb(210, 210, 210);
+}
+
